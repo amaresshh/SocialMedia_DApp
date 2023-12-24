@@ -1,5 +1,5 @@
 **Decentralized Social Media App**
-_Team Members: Amaresh Baranwal - 2021301073, Pratham Maner - 2021301074, Siddharath Revankar - 2021301076, Kenil Shah - 202130178_
+_Team Members: Amaresh Baranwal - 2021301073, Pratham Maner - 2021301074, Siddharath Revankar - 2021301077, Kenil Shah - 202130178_
 
 In the contemporary digital landscape, traditional social media platforms grapple with challenges such as a lack of transparency, compromised data privacy, and a diminished sense of user empowerment. The centralized structure of these platforms not only jeopardizes user data security but also exposes individuals to the looming threat of censorship. In response to these issues and with the aim of empowering users, this project endeavors to pioneer the development of a decentralized social media application. Our distinctive approach integrates decentralization with a robust consensus mechanism to foster secure and censorship-resistant interactions. Key to our strategy is the strategic utilization of distributed ledger technologies and consensus algorithms, culminating in a platform that is transparent, secure, and reliable.
 
